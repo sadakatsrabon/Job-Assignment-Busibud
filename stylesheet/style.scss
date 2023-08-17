@@ -1,0 +1,202 @@
+// ------ Background Wave -------//
+.background{
+  position: relative;
+}
+.wave-header{
+  min-height: 100vh;
+  width: 100%;
+  background: #F8FAFC;
+  position: relative;
+}
+.background-wav{
+  position: relative;
+}
+.bg-wav{
+  position: absolute;
+  bottom: 0;
+}
+.z-index{
+  z-index: 10;
+}
+
+// --------- Common Styles --------- //
+h3{
+  color: #000000 !important;
+}
+.container{
+  position: relative;
+}
+p {
+  color: black;
+}
+.buttonCommon{
+  border: none;
+  font-size: 23px;
+  color: #ffffff;
+  background-color: #1492e6;
+  width: 248px;
+  height: 65px;
+  box-shadow: 0 0 10px 5px rgba(0.1, 0.1, 0.1, 0.1);
+  border-radius: 50px !important;
+}
+
+//------------ Styles For Nav Section ----------//
+#nav_picture {
+  margin-top: 33.8px;
+  width: 163.86px;
+  height: 47.83px;
+}
+
+// ---------- Style For Header Section ---------- //
+#header_img {
+  width: 400px;
+  height: 518px;
+}
+#heading{
+  margin-top: 80px;
+  // max-width: 50% ;
+}
+#headig-p{
+  width: 520px;
+  height: 120px;
+  color: #000000;
+}
+.head-text{
+  font-size: 32px;
+}
+
+.text {
+  font-size: 19px !important;
+  color: #000000 !important;
+  font-family: 'Open Sans', sans-serif !important;
+}
+#buttonCommon{
+  margin-top: 80px !important;
+  position: absolute;
+  bottom: 0;
+}
+hr {
+  margin-top: 0 !important;
+}
+
+// ------------ About sections style ------------- //
+#about{
+  margin-top: 120px;
+}
+h2{
+  color: #000000 !important;
+}
+h6{
+  font-size: 18px !important;
+}
+
+//  ---------- Working purpose Styles ------------ //
+.person{
+  width: 241px;
+  height: 187px;
+}
+
+// --------- Service Section Styles ----------- //
+.service-img{
+  width: 70px;
+  height: 70px;
+  margin: 0px;
+}
+.service-div{
+ 
+}
+.service-details{
+  text-align: left;
+}
+.custom-row {
+  display: flex;
+}
+.custom-div {
+  flex: 1;
+  padding: 10px;
+  text-align: center;
+}
+
+.head{
+  position: relative;
+}
+
+
+
+// --------- Testemonials sections style--------- //
+.testemonials{
+  margin-top: 80px;
+  margin-bottom: 80px;
+  width: 1080px;
+  height: 363px;
+  border-radius: 30px;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.3);
+  background-color: #F8FAFC;
+}
+.testy-class{
+  width: 285px;
+  height: 263px;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: #F8FAFC;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+.testemonials-img{
+  width: 64px;
+}
+.author-img{
+width: 44px;
+height: 44px;
+}
+.star-img{
+  margin-top: 5px !important;
+  width: 15px !important;
+  height: 15px !important;
+  display: flex;
+}
+
+// ---------- Extra section style ---------- //
+
+#extra-img1{
+  width: 185px !important;
+  height: 58px !important;
+}
+#extra-img2{
+  width: 177px !important;
+  height: 100px !important;
+}
+#extra-img3{
+  width: 88px !important;
+  height: 88px !important;
+}
+.extra-div{
+  display: flex;
+  justify-content: space-around;
+}
+#extra-heading{
+  margin-top: 200px !important;
+  margin-bottom:100px !important;
+}
+
+// -------- Footer Section Styles ---------//
+#Footer{
+  position: relative;
+  margin-top: 100px;
+  height: 320px;
+  background-color: #000000;
+}
+#footer-text{
+  width: 100%;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+}
+
+
+
+
+
+
